@@ -1,0 +1,32 @@
+.banner-text{
+    position: relative;
+    top: 35%;
+}
+
+.banner-text .form-control{
+    border-radius: 7px 0px 0px 7px!important;
+    height: 50px!important;
+}
+
+.search{
+    border-radius: 0px 7px 7px 0px!important;
+    height: 50px!important;
+}
+
+.vol-event-list {
+    position: relative !important;
+    top: 80%;
+}
+
+.home-banner .row{
+    margin-right: 30px;
+    margin-left: 45px;
+}
+
+.home-banner{
+    margin-top: 50px;
+}
+
+.custom-input{
+    margin-bottom: 80px!important;
+}

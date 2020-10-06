@@ -1,0 +1,25 @@
+.navbar-brand img:hover{
+    width: 170px!important;
+}
+
+.normal-nav-link {
+    color: #0B0B0B!important;
+    margin-top: 3px;
+    font-weight: bold;
+    transition-property: font-size;
+    transition-duration: 1s;
+}
+
+.normal-nav-link:hover {
+    color: #007BFF!important;
+    font-size: 17px;
+}
+
+.header-section{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)),
+    url("../../images/header-bg.png");
+    height: 450px;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
